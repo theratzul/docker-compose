@@ -5,3 +5,4 @@ Setup password theratzul/b..n
 Restart the service in path: docker-compose service restart  git add README.md
 git commit -m "first commit"  
 docker exec -ti jenkins bash  | cat /tmp/info  
+mkdir centos | DOCKERFILE
